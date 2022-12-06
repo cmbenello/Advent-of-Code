@@ -1,4 +1,4 @@
-with open('Advent of Code 2022/day6/input.txt') as f:
+with open('2022/day6/input.txt') as f:
     lines = f.readlines()
 
 def part1(packets):
