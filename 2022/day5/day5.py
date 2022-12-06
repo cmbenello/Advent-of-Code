@@ -13,7 +13,7 @@ def create_stacks(lines):
             return(stacks)
 
 def part1():
-    with open('day5/input.txt') as f:
+    with open('2022/day5/input.txt') as f:
         lines = f.readlines()
         
         stacks = create_stacks(lines)
@@ -37,7 +37,7 @@ def part1():
         return("".join(res))
 
 def part2():
-    with open('day5/input.txt') as f:
+    with open('2022/day5/input.txt') as f:
         lines = f.readlines()
         
         stacks = create_stacks(lines)

@@ -1,5 +1,5 @@
 def part1():
-    with open('day4/input.txt') as f:
+    with open('2022/day4/input.txt') as f:
         lines = f.readlines()
         res = 0
 
@@ -12,7 +12,7 @@ def part1():
         return(res)
 
 def part2():
-    with open('day4/input.txt') as f:
+    with open('2022/day4/input.txt') as f:
         lines = f.readlines()
         res = 0
 

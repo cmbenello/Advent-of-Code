@@ -1,4 +1,4 @@
-with open('day3/input.txt') as f:
+with open('2022/day3/input.txt') as f:
     lines = f.readlines()
     res = 0
 

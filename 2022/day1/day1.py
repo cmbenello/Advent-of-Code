@@ -1,4 +1,4 @@
-with open('day1/input.txt') as f:
+with open('2022/day1/input.txt') as f:
     lines = f.readlines()
     elfs = []
     sum = 0
